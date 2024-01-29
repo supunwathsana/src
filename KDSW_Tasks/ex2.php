@@ -1,4 +1,5 @@
-<?php include 'header.php'; ?>
+<?php $title="Exercise 2" ;
+include 'header.php'; ?>
 
 
       <h1 class="mx-auto p-2 scw" style=" text-align: center;">Welcome to Sri Lanka</h1>

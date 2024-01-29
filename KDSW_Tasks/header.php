@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sri Lanka</title>
+    <title><?php echo $title;?></title>
     <link rel="icon" href="images/frame1/sri-lanka.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     
@@ -30,10 +30,10 @@
                         <a class="nav-link " aria-current="page" href="#page1"><img src="images/frame1/logo.gif" alt="logo" width="90" height="40"></a>
                       </li>
                   <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="#">Home</a>
+                    <a class="nav-link " aria-current="page" href="ex1.php">exercise 1</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#2">Plan your trip</a>
+                    <a class="nav-link" href="ex2.php">exercise 2</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#3">Where to go </a>
