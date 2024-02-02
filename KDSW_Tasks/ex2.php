@@ -11,12 +11,6 @@ include 'header.php'; ?>
     temporibus veritatis! Voluptates incidunt quidem omnis in amet.</p>
     
     <div id="9" style="padding-top: 100px; padding-bottom: 200px;">
-      
-      <h2 class="mx-auto p-2 scw" >Sri Lankan Sea Food</h2> 
-      <img src="images/frame3/seafood.jpg" class="rounded mx-auto d-block img-fluid" alt="image" height="300" width="924">
-      <p class="mx-auto p-2 scw" > A restaurant that specializes in seafood cuisine and seafood dishes, such as fish and shellfish. Dishes may include freshwater fish.
-
-        <p>
 
                
 
