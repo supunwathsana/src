@@ -36,16 +36,16 @@
                     <a class="nav-link" href="ex2.php">exercise 2</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#3">Where to go </a>
+                    <a class="nav-link" href="#3">exercise 3 </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#4"> Events </a>
+                    <a class="nav-link" href="#4">exercise 4</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#5">Adventure </a>
+                    <a class="nav-link" href="#5">exercise 5 </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#6">Accormadation </a>
+                    <a class="nav-link" href="#6">exercise 6 </a>
                   </li>
                   
                   <li class="nav-item dropdown">
