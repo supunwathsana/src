@@ -36,10 +36,10 @@
                     <a class="nav-link" href="ex2.php">exercise 2</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#3">exercise 3 </a>
+                    <a class="nav-link" href="ex3.php">exercise 3 </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#4">exercise 4</a>
+                    <a class="nav-link" href="ex4.php">exercise 4</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#5">exercise 5 </a>
@@ -68,4 +68,4 @@
           </nav>
         
     </header>
-    <div id="page1" style="padding-top: 60px;" >
+    <div id="page1" style="padding-top: 100px;" >

@@ -1,6 +1,6 @@
-body ,.navbar-light{
+body{
 
-    background: rgb(28, 27, 27);
+  background-color: #1C1B1B;
 }
 
 .nav-link  {
@@ -169,7 +169,7 @@ h3{
 
   th{
 
-    color: #CCE91E !important;
+    color:#FFF !important;
   }
   .scw{
 
@@ -198,9 +198,7 @@ h3{
     gap:8px;
   
   }
-  h1{
-    font-size: 36px;
-  }
+
 
   
 .imageh{
@@ -245,3 +243,16 @@ h3{
   .card:hover .overlay {
     opacity: 1;
   }
+
+  h4{
+
+    color: #FFF;
+  }
+td{
+
+  color: #FFF;
+}
+h6{
+
+  color: #FFF !important;
+}

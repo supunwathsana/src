@@ -5,7 +5,7 @@ include 'header.php'; ?>
    <h3>3.1 Write PHP code to output the following message: Hello world! My name is "David"</h3> 
    <?php
    // use backslasj to escape special characters like"
-   echo "Hello world! My name is \"David\"";
+   echo "<h4>Hello world! My name is \"David\"</h4>";
    ?>
     <h3>3.2 Create a PHP variable named $title and assign it
          the value "PHP is interesting." 
