@@ -24,6 +24,10 @@
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
+              <ul>
+                <li> <a href="index.php">Create Data</a></li>
+                <li> <a href="read.php">Read Data</a></li>
+</ul>
                 <ul class="navbar-nav">
 
                     <li class="nav-item">
@@ -64,6 +68,11 @@
                   
                 </ul>
               </div>
+              
+
+
+
+
             </div>
           </nav>
         
