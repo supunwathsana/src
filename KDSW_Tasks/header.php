@@ -27,7 +27,7 @@
                 <ul class="navbar-nav">
 
                     <li class="nav-item">
-                        <a class="nav-link " aria-current="page" href="#page1"><img src="./images/frame1/logo.gif" alt="logo" width="90" height="40"></a>
+                        <a class="nav-link " aria-current="page" href="#page1"><img src="../images/frame1/logo.gif" alt="logo" width="90" height="40"></a>
                       </li>
                   <li class="nav-item">
                     <a class="nav-link " aria-current="page" href="ex1.php">exercise 1</a>
