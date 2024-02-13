@@ -46,7 +46,7 @@
                     <a class="nav-link" href="ex4.php">exercise 4</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#5">exercise 5 </a>
+                    <a class="nav-link" href="/Project/Travel/README.md">exercise 5</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#6">exercise 6 </a>
